@@ -15,9 +15,9 @@ Connecting school needs with in-kind resources in the Philadelphia community.
 
 
 ## MVP features:
-#### NOT just phase 1; the only piece that matters. "What we are building."
-#### Extra future plans go to phase 2, phase 3, etc; can change over time, no pressure to keep)
-#### Develop these FROM the user stories, to implement situations they describe
+##### NOT just phase 1; the only piece that matters. "What we are building."
+##### Extra future plans go to phase 2, phase 3, etc; can change over time, no pressure to keep)
+##### Develop these FROM the user stories, to implement situations they describe
 
  - Website
  - registration, log-in
